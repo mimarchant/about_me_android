@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">about_me</string>
+    <string name="miguel_marchant">Miguel Marchant</string>
+    <string name="occupation">Software Engineer</string>
+    <string name="location">Chillán, Chile</string>
+    <string name="contact_me">Contact me</string>
+    <string name="follow_me">Follow me</string>
+</resources>
