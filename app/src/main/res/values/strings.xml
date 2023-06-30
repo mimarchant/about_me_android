@@ -5,4 +5,11 @@
     <string name="location">Chillán, Chile</string>
     <string name="contact_me">Contact me</string>
     <string name="follow_me">Follow me</string>
+    <string name="about_me">About Me</string>
+    <string name="message_me">Envíame un correo</string>
+    <string name="call_me">Let\'s talk</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="hablemos">Hablemos</string>
+    <string name="ll_mame">Llámame</string>
+    <string name="estamos_en_contacto">Estamos en contacto!</string>
 </resources>
